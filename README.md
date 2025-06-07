@@ -95,13 +95,6 @@ Visual comparison between **user profile** and **top lead matches** using:
 - Expand dataset with real startup data
 
 ---
-
-## 🏆 Hackathon Scope & Completion
-
-Built within **5 hours** for a prototype/hackathon. Modular, extensible, and perfect for pitching at idea-stage competitions.
-
----
-
 ## 🙌 Team
 
 **Built by:** Ridhi Agarwalla  
