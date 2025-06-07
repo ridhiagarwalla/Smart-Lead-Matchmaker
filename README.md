@@ -2,11 +2,11 @@
 An AI-based Smart Lead Matchmaker for Entrepreneurs &amp; Investors, with gamified onboarding and personalized partner suggestions.
 # 🚀 SmartLead: AI-Powered Lead Matchmaker for Startups & Investors
 
-**SmartLead** is a gamified, AI-powered web tool designed to help **entrepreneurs, investors, and operators** discover high-quality business leads. Built in under 5 hours during a rapid prototyping challenge, it combines user-friendly onboarding, smart matchmaking, and insightful visualizations — all accessible via a simple Streamlit interface.
+**SmartLead** is a gamified, AI-powered web tool designed to help **entrepreneurs, investors, and operators** discover high-quality business leads. Built a rapid prototyping challenge, it combines user-friendly onboarding, smart matchmaking, and insightful visualizations — all accessible via a simple Streamlit interface.
 
 ---
 
-## 🌟 Demo Pitch Summary
+## 🌟 Summary
 
 **“An AI-based Smart Lead Matchmaker for Entrepreneurs & Investors, with gamified onboarding and personalized partner suggestions.”**
 
@@ -14,7 +14,7 @@ An AI-based Smart Lead Matchmaker for Entrepreneurs &amp; Investors, with gamifi
 
 ## 🧠 Key Features
 
-### 1. 🎲 Gamified Onboarding (15–30 mins)
+### 1. 🎲 Gamified Onboarding 
 Collects and scores user data through an interactive form:
 
 | Question                 | Type         | Options                                                                 |
@@ -29,7 +29,7 @@ Collects and scores user data through an interactive form:
 
 ---
 
-### 2. 🤖 AI-Based Lead Matching (2–2.5 hrs)
+### 2. 🤖 AI-Based Lead Matching 
 
 Leverages **TF-IDF vectorization + cosine similarity** to match user profile with a curated dataset of companies.
 
@@ -45,7 +45,7 @@ Leverages **TF-IDF vectorization + cosine similarity** to match user profile wit
 
 ---
 
-### 3. 📊 Visualization Dashboard (1–1.5 hrs)
+### 3. 📊 Visualization Dashboard
 
 Visual comparison between **user profile** and **top lead matches** using:
 
